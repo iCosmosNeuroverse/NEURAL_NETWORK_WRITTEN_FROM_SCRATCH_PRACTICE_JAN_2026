@@ -2,7 +2,8 @@
 
 # Today, I write a fundamental artificial neural network from scratch/memory, in about 1000 lines of java code, without Ai libraries, [as I have been doing for 8 years, approximately every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
 # This is a part of [my Live agile neural network sessions](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/README.md), and [the ai curriculum](https://icognium.github.io/) that I teach.
-# Modern ai, like GPT are powered by artificial neural networks, at bottom, similar to this fundamental model I wrote/practice writing from memory/sratch every 6 months or so.
+
+# Modern ai, like GPT are powered by artificial neural networks, at bottom, similar to this fundamental model I wrote/practice writing from memory/sratch every 6 months or so. Granted those systems have neural nets that are alot more complicated than this basic one, but knowing this basic one both code wise and or [mathematically](https://www.amazon.com/Artificial-Neural-Networks-Kids-intuitive-ebook/dp/B077FX57ZZ) can help with debugging.
 
 
 ![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_WRITTEN_FROM_SCRATCH_PRACTICE_JAN_2026/blob/main/source_code/screenshot_jan_26.png "default page")
