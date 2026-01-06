@@ -7,7 +7,7 @@
 
 ![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_WRITTEN_FROM_SCRATCH_PRACTICE_JAN_2026/blob/main/source_code/screenshot_jan_26.png "default page")
   
-![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_WRITTEN_FROM_SCRATCH_PRACTICE_JAN_2026/blob/main/source_code/sscreenshot_2_jan_26.png "default page")
+![Alt text](https://github.com/iCosmosNeuroverse/NEURAL_NETWORK_WRITTEN_FROM_SCRATCH_PRACTICE_JAN_2026/blob/main/source_code/screenshot_2_jan_26.png "default page")
   
   
 NEURAL_NETWORK_PRACTICE_2026_JAN_5
